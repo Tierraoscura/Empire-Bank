@@ -1,2 +1,2 @@
 # Empire-Bank
-A super simple short program of withdrawing and depositing.
+A simple withdraw and deposit using c++
